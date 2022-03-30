@@ -15,7 +15,7 @@ It will go through the history of messages and cluster all questions and answers
 Furthermore, the bot will post the most important coding questions (asked at least 3 times) on Stack Overflow / Stack Exchange, so they are being indexed by Google.
 
 ## Commands reference
-Coming in the next version:
+Coming soon:
 - `/start`
     This command starts up the bot.
 - `/stop`
