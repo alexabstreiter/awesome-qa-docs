@@ -1,7 +1,7 @@
 # [AwesomeQA](https://awesomeqa.carrd.co/) Docs
 
-AwesomeQA takes away the burden of moderators.
-The discord bot answers repetitive questions, generates FAQs and provides a framework for Q&A in Discord.
+AwesomeQA takes away the burden of moderators and makes the knowledge of your discord server accessible to anyone.
+The discord bot moves your discord knowledge to Stackoverflow, generates FAQs and provides a framework for Q&A in Discord.
 
 ## Getting started
 To setup the bot you need the `Administrator` permission or must be the server owner. If you don't have the `Administrator` permission, please contact the owner of the server and ask for this permission in order to set up the bot.
