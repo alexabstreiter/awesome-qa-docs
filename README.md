@@ -12,7 +12,11 @@ You can invite the bot by clicking [here](https://discord.com/oauth2/authorize?c
 ## What the bot will do
 It will go through the history of messages and cluster all questions and answers using state of the art NLP models.
 
-Furthermore, the bot will optionally post the most important coding questions (asked at least 3 times) on Stack Overflow / Stack Exchange, so they are being indexed by Google. Please [contact](mailto:ko.abstreiter@gmail.com) us if you want to enable this feature.
+Next, we will create statistics on your community's most frequent problems and curate FAQs for you.
+
+You can [request your FAQs](mailto:ko.abstreiter@gmail.com) and question statistics once your bot is up and running.
+
+Furthermore, the bot will optionally post the most important coding questions (asked at least 3 times) on Stack Overflow / Stack Exchange, so they are being indexed by Google. Please [contact us](mailto:ko.abstreiter@gmail.com) if you want to enable this feature.
 
 ## Commands reference
 Coming soon:
