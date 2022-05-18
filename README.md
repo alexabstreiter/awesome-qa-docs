@@ -1,4 +1,4 @@
-# [AwesomeQA]([https://awesomeqa.carrd.co/](https://home.awesomeqa.xyz)) Docs
+# [AwesomeQA](https://home.awesomeqa.xyz) Docs
 
 AwesomeQA takes away the burden of moderators by making the knowledge of your discord server accessible to anyone.
 The discord bot moves your discord knowledge to Stackoverflow, generates FAQs and provides a framework for Q&A in Discord.
