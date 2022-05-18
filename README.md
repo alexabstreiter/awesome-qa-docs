@@ -1,4 +1,4 @@
-# [AwesomeQA](https://awesomeqa.carrd.co/) Docs
+# [AwesomeQA]([https://awesomeqa.carrd.co/](https://home.awesomeqa.xyz)) Docs
 
 AwesomeQA takes away the burden of moderators by making the knowledge of your discord server accessible to anyone.
 The discord bot moves your discord knowledge to Stackoverflow, generates FAQs and provides a framework for Q&A in Discord.
@@ -7,7 +7,7 @@ The discord bot moves your discord knowledge to Stackoverflow, generates FAQs an
 To setup the bot you need the `Administrator` permission or must be the server owner. If you don't have the `Administrator` permission, please contact the owner of the server and ask for this permission in order to set up the bot.
 
 ### Invite the Bot
-You can invite the bot by clicking [here](https://discord.com/oauth2/authorize?client_id=955744627481255976&permissions=2147551360&scope=bot). Please give it all permissions, otherwise it may not function properly. 
+You can invite the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=955744627481255976&permissions=2147551360&scope=bot). Please give it all permissions, otherwise it may not function properly. 
 
 ## What the bot will do
 It will go through the history of messages and cluster all questions and answers using state of the art NLP models.
