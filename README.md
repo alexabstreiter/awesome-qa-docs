@@ -1,6 +1,6 @@
 # [AwesomeQA](https://home.awesomeqa.xyz) Docs
 
-AwesomeQA answers repetitive questions, generates FAQ insights, and moves your Discord knowledge to Stackoverflow using state-of-the-art AI models.
+AwesomeQA answers repetitive questions, generates FAQ insights, and manages your Discord knowledge using state-of-the-art AI models.
 
 ## Getting started
 To setup the bot you need the `Administrator` permission or must be the server owner. If you don't have the `Administrator` permission, please contact the owner of the server and ask for this permission in order to set up the bot.
