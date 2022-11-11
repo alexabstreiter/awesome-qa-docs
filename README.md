@@ -13,15 +13,16 @@ It will go through the history of messages and cluster all questions and answers
 
 Next, we will create statistics on your community's most frequent problems and curate FAQs for you.
 
+AwesomeQA will use all previously answered questions as the initial knowledge base used to answer new questions.
+
 You can [request your FAQs](mailto:hi@awesomeqa.xyz) and question statistics once your bot is up and running.
 
-Furthermore, the bot will optionally post the most important coding questions (asked at least 3 times) on Stack Overflow / Stack Exchange, so they are being indexed by Google. Please [contact us](mailto:hi@awesomeqa.xyz) if you want to enable this feature.
 
 ## Commands reference
-Coming soon:
-- `/start`
-    This command starts up the bot.
-- `/stop`
-    This command stops the bot, i.e. it will no longer read the messages or answer any questions.
-- `/extract-faq <your-email>`
-    Will send an email to the specific mail containing a predefined FAQ.
+- `/aqa_check_access`
+    Shows the permissions our bot has for each channel of your server.
+    Please adjust the permissions so that AwesomeQA can work on all channels you'd like it to be active on.
+- `/aqa_activate`
+    This command starts training the AI, and will activate the bot once it's finished.
+- `/aqa_contact_us`
+    Displays all channels to contact us on. Feel free to send us anything that's on your mind :)
