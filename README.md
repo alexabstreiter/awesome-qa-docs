@@ -8,6 +8,7 @@ To setup the bot you need the `Administrator` permission or must be the server o
 ### Invite the Bot
 You can invite the bot by clicking on 'Invite bot' [here](https://home.awesomeqa.xyz). 
 
+### Setup the Bot
 Please give it all permissions asked for, otherwise it may not function properly. 
 To display AwesomeQA's permissions, use `/aqa_check_access`.
 
