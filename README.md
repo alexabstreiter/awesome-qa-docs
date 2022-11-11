@@ -6,7 +6,13 @@ AwesomeQA answers repetitive questions, generates FAQ insights, and moves your D
 To setup the bot you need the `Administrator` permission or must be the server owner. If you don't have the `Administrator` permission, please contact the owner of the server and ask for this permission in order to set up the bot.
 
 ### Invite the Bot
-You can invite the bot by clicking on 'Invite bot' [here](https://home.awesomeqa.xyz). Please give it all permissions asked for, otherwise it may not function properly. 
+You can invite the bot by clicking on 'Invite bot' [here](https://home.awesomeqa.xyz). 
+
+Please give it all permissions asked for, otherwise it may not function properly. 
+To display AwesomeQA's permissions, use `/aqa_check_access`.
+
+Once the correct permissions are set, please use `/aqa_activate` to start training the AI and activate the bot once it's finished.
+
 
 ## What the bot will do
 It will go through the history of messages and cluster all questions and answers using state of the art NLP models.
